@@ -2,7 +2,7 @@
 echo.
 echo === SecondBrains GitHub Pull ===
 cd /d "%~dp0"
-git pull
+git pull origin master
 echo.
 echo === Done! You have the latest work from the team ===
 timeout /t 3
