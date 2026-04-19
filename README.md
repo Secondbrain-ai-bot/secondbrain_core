@@ -1,2 +1,2 @@
 # secondbrain_core
-project related codes and codumentation
+project related codes and documentation
